@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alibabarrr
+- 👋 Hi, I’m Alibabaarrrr
 - 👀 I’m interested in sys/net and cyber
 - 🌱 I’m currently learning @salt, @minio, @websec, @python
 
