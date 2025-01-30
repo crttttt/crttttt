@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crttttt
+- 👋 Hi, I’m Alibabarrr
 - 👀 I’m interested in sys/net and cyber
 - 🌱 I’m currently learning @salt, @minio, @websec, @python
 
